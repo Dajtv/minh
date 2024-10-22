@@ -1,0 +1,1 @@
+zmap -p 8080 -q -w vn.txt | ./prox -p 8080
